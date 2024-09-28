@@ -1,7 +1,7 @@
 import streamlit as st
 import google.generativeai as genai
 
-st.title("✈️🚄 Travel Planner Chatbot")
+st.title("✈️🚄🌏 Travel Planner Chatbot")
 st.subheader("Let AI help plan your trip!")
 
 # Capture Gemini API Key
